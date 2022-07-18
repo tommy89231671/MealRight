@@ -1,0 +1,6 @@
+framework module Pods_MealRight__MealRight_UITests {
+  umbrella header "Pods-MealRight!-MealRight!UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
